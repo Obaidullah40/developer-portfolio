@@ -21,9 +21,8 @@ h2{
     
 }
 .half img{
-    width: 50%;
-     |
-    
+    width: 60%;
+    padding-left: 10%;
 }
 .link-button{
  text-decoration: none;
@@ -40,7 +39,7 @@ h2{
 }
 .half-widthr{
     width: 50%;
-    padding-right: 10%;
+    padding-right: 100px;
 }
  .dream-dig{
      background-image: url(pic/dream-bg.png);
@@ -77,10 +76,8 @@ h2{
      text-align: center;
  }
 
-
-
-
-
-
+ .half {
+    width: 50%;
+}
 
 
