@@ -8,8 +8,9 @@ h1{
 span{
     color: chartreuse;
 }
-section{
+.flexible-contaner{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
