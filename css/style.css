@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
    font-size: 50px; 
@@ -10,17 +11,24 @@ span{
 section{
     display: flex;
 }
-.half{
+.half-width{
     width: 50%;
     padding-left: 10%;
 }
 .half img{
-    width: 80%;
+    width: 90%;
+    padding-right: 10%;
 }
 .link-buton{
  text-decoration: none;
  background-image: linear-gradient(orange,tomato);
  padding: 10px 40px;
- border-radius: 5px;   
+ border-radius: 5px;  
+ font-weight: 800; 
+
+}
+.top-banner{
+    background-image: url(pic/top-banner.png);
+    background-repeat: no-repeat;
 
 }
